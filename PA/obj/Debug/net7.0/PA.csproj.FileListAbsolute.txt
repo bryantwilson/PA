@@ -1,0 +1,14 @@
+C:\Users\open\Desktop\PA\bin\Debug\net7.0\PA.exe
+C:\Users\open\Desktop\PA\bin\Debug\net7.0\PA.deps.json
+C:\Users\open\Desktop\PA\bin\Debug\net7.0\PA.runtimeconfig.json
+C:\Users\open\Desktop\PA\bin\Debug\net7.0\PA.dll
+C:\Users\open\Desktop\PA\bin\Debug\net7.0\PA.pdb
+C:\Users\open\Desktop\PA\obj\Debug\net7.0\PA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\open\Desktop\PA\obj\Debug\net7.0\PA.AssemblyInfoInputs.cache
+C:\Users\open\Desktop\PA\obj\Debug\net7.0\PA.AssemblyInfo.cs
+C:\Users\open\Desktop\PA\obj\Debug\net7.0\PA.csproj.CoreCompileInputs.cache
+C:\Users\open\Desktop\PA\obj\Debug\net7.0\PA.dll
+C:\Users\open\Desktop\PA\obj\Debug\net7.0\refint\PA.dll
+C:\Users\open\Desktop\PA\obj\Debug\net7.0\PA.pdb
+C:\Users\open\Desktop\PA\obj\Debug\net7.0\PA.genruntimeconfig.cache
+C:\Users\open\Desktop\PA\obj\Debug\net7.0\ref\PA.dll
